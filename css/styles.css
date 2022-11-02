@@ -27,7 +27,12 @@ body {
 }
  #nav-list li {
  	background-color: #fff;
- 	text-align: center;
+ }
+
+ #nav-list li a {
+ 	 	text-align: center;
+ 	 	font-weight: bold;
+
  }
 .container h2#page-title {
 	font-weight: bold;
